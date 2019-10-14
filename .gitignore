@@ -88,3 +88,8 @@ typings/
 .dynamodb/
 
 .vscode
+
+# set-value
+*.set-value
+*.mixin-deep
+*.lodash.template
